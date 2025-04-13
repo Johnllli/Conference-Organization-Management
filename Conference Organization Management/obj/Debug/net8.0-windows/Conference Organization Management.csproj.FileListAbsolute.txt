@@ -1,0 +1,74 @@
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Conference Organization Management.exe
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Conference Organization Management.deps.json
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Conference Organization Management.runtimeconfig.json
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Conference Organization Management.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Conference Organization Management.pdb
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Azure.Core.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Azure.Identity.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\System.Memory.Data.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+G:\project\Conference Organization Management\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.csproj.AssemblyReference.cache
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\MainWindow.g.cs
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\App.g.cs
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management_MarkupCompile.cache
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management_MarkupCompile.lref
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\MainWindow.baml
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.g.resources
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.GeneratedMSBuildEditorConfig.editorconfig
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.AssemblyInfoInputs.cache
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.AssemblyInfo.cs
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.csproj.CoreCompileInputs.cache
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conferen.93A38405.Up2Date
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.dll
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\refint\Conference Organization Management.dll
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.pdb
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\Conference Organization Management.genruntimeconfig.cache
+G:\project\Conference Organization Management\obj\Debug\net8.0-windows\ref\Conference Organization Management.dll

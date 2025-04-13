@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<efcore context-namespace="COM" namespace="COM" p1:name="cnCOM" p1:Guid="2b001404-30c5-44dd-b91a-e3cc756559a3" xmlns:p1="http://devart.com/schemas/EntityDeveloper/1.0">
+  <class name="Conferences" entity-set="Conferences" p1:Guid="04f84300-791a-4b9c-915d-e2e2e0727eff">
+    <id name="ID" type="Int32" value-generated="OnAddOrUpdate" p1:ValidateRequired="true" p1:Guid="8501a42c-ce10-41f4-bcb5-7cc965a87585">
+      <column name="" />
+    </id>
+    <property name="Title" type="String" p1:ValidateRequired="true" p1:Guid="6fee8030-ad2a-4fb5-ba6e-0b6fbe1d3de1">
+      <column name="" />
+    </property>
+    <property name="StartDate" type="DateTime" p1:ValidateRequired="true" p1:Guid="e70be8f3-7f4b-470c-9d79-47570d8b463e">
+      <column name="" />
+    </property>
+    <property name="EndDate" type="DateTime" p1:nullable="True" p1:ValidateRequired="false" p1:Guid="00c9ba6f-53d8-4865-b9b8-75fc2cc8c8b1">
+      <column name="" />
+    </property>
+    <property name="Location" type="String" p1:ValidateRequired="true" p1:Guid="52777ac8-40a3-47e7-a9a6-3b1c904a59ce">
+      <column name="" />
+    </property>
+  </class>
+  <class name="Presenter" entity-set="Presenters" p1:Guid="9b28fcc3-bc8e-4333-adaf-6cce35df1b11">
+    <id name="ID" type="Int32" value-generated="OnAdd" p1:ValidateRequired="true" p1:Guid="cbd55c4b-4a1c-4bd6-96b0-5bca776d4898">
+      <column name="" />
+    </id>
+    <property name="Name" type="String" p1:ValidateRequired="true" p1:Guid="98deb1a6-1634-4f5b-b8b7-b0dd02b5244a">
+      <column name="" />
+    </property>
+    <property name="FieldOfExpertise" type="String" p1:ValidateRequired="true" p1:Guid="f61cd475-eefe-4b51-bc52-05e7cd189e5c">
+      <column name="" />
+    </property>
+  </class>
+  <class name="Presentation" entity-set="Presentations" p1:Guid="c4089028-6b8a-4423-9b95-9727f88d2930">
+    <id name="ID" type="Int32" value-generated="OnAddOrUpdate" p1:ValidateRequired="true" p1:Guid="4e3ddc52-7474-4942-b2ad-4485b7a6b96a">
+      <column name="" />
+    </id>
+    <property name="ConferenceID" type="Int32" p1:ValidateRequired="true" p1:Guid="43e77f65-2f0f-494e-a53f-fb469294691f">
+      <column name="" />
+    </property>
+    <property name="PresenterID" type="Int32" p1:ValidateRequired="true" p1:Guid="be722666-0de5-4d40-ba86-d45c4edb2a65">
+      <column name="" />
+    </property>
+    <property name="PresentationTitle" type="String" p1:ValidateRequired="true" p1:Guid="b33c8219-b42e-4911-999b-de16d3022955">
+      <column name="" />
+    </property>
+    <property name="DateAndTime" type="DateTime" p1:ValidateRequired="true" p1:Guid="275de0cd-1cd4-460b-806a-76ed1f3484dc">
+      <column name="" />
+    </property>
+  </class>
+  <associations>
+    <association name="Conferences_Presentation" cardinality="OneToMany" p1:Guid="43206360-d626-46f9-b011-71216dd3499b">
+      <end1 multiplicity="One" name="Conferences" class="Presentation" relation-class="Conferences" constrained="True" lazy="False" p1:Guid="7b16aca5-e133-400c-a2e0-29234b7c45f0">
+        <property name="ID" />
+      </end1>
+      <end2 multiplicity="Many" name="Presentations" class="Conferences" relation-class="Presentation" lazy="False" p1:Guid="ae85a612-5ffc-4f66-838f-78015662f50f">
+        <property name="ConferenceID" />
+      </end2>
+    </association>
+    <association name="Presenter_Presentation" cardinality="OneToMany" p1:Guid="52f6cc0f-5760-46d5-99f5-c6f5d9262894">
+      <end1 multiplicity="One" name="Presenter" class="Presentation" relation-class="Presenter" constrained="True" lazy="False" p1:Guid="eb7d6879-cfbd-4cf2-bc06-d6080315eef1">
+        <property name="ID" />
+      </end1>
+      <end2 multiplicity="Many" name="Presentations1" class="Presenter" relation-class="Presentation" lazy="False" p1:Guid="622f3165-9fe3-4ccf-9977-59ea4807693c">
+        <property name="PresenterID" />
+      </end2>
+    </association>
+  </associations>
+</efcore>

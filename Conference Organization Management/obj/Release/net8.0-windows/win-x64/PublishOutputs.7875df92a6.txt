@@ -1,0 +1,10 @@
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\Conference Organization Management.pdb
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\PenImc_cor3.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\PresentationNative_cor3.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\vcruntime140_cor3.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\wpfgfx_cor3.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\Microsoft.Data.SqlClient.SNI.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\msalruntime.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\WebView2Loader.dll
+G:\project\Conference Organization Management\bin\Release\net8.0-windows\win-x64\publish\Conference Organization Management.exe
