@@ -18,7 +18,7 @@
                 <MenuItem Header="All" Click="mi_AsClick"/>
             </MenuItem>
             <MenuItem Header="Change/New">
-                <MenuItem Header="Change" Click="mi_ChangeClick"/>
+                <MenuItem Header="Change/New" Click="mi_ChangeClick"/>
             </MenuItem>
             
         </Menu>
