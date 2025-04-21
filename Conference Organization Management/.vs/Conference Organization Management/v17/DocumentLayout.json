@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\project\\Conference Organization Management\\",
+  "WorkspaceRootPath": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\project\\conference organization management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\project\\conference organization management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\project\\conference organization management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\github\\conference-organization-management\\conference organization management\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\project\\conference organization management\\dmcom.cncom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\github\\conference-organization-management\\conference organization management\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\github\\conference-organization-management\\conference organization management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\github\\conference-organization-management\\conference organization management\\dmcom.cncom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:dmcom.cncom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\project\\conference organization management\\dmcom.conferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|g:\\github\\conference-organization-management\\conference organization management\\dmcom.conferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6910371A-6D71-41D8-BE74-E2EDE3FE2198}|Conference Organization Management.csproj|solutionrelative:dmcom.conferences.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,15 +30,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "dmCOM.cnCOM.cs",
-              "DocumentMoniker": "G:\\project\\Conference Organization Management\\dmCOM.cnCOM.cs",
+              "DocumentMoniker": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\dmCOM.cnCOM.cs",
               "RelativeDocumentMoniker": "dmCOM.cnCOM.cs",
-              "ToolTip": "G:\\project\\Conference Organization Management\\dmCOM.cnCOM.cs",
+              "ToolTip": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\dmCOM.cnCOM.cs",
               "RelativeToolTip": "dmCOM.cnCOM.cs",
               "ViewState": "AQIAAEkAAAAAAAAAAAAwwDEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "dmCOM.Conferences.cs",
-              "DocumentMoniker": "G:\\project\\Conference Organization Management\\dmCOM.Conferences.cs",
+              "DocumentMoniker": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\dmCOM.Conferences.cs",
               "RelativeDocumentMoniker": "dmCOM.Conferences.cs",
-              "ToolTip": "G:\\project\\Conference Organization Management\\dmCOM.Conferences.cs",
+              "ToolTip": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\dmCOM.Conferences.cs",
               "RelativeToolTip": "dmCOM.Conferences.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAmwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,11 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "G:\\project\\Conference Organization Management\\MainWindow.xaml",
+              "DocumentMoniker": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "G:\\project\\Conference Organization Management\\MainWindow.xaml",
+              "ToolTip": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-04-03T16:28:28.187Z",
@@ -71,27 +71,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "G:\\project\\Conference Organization Management\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "G:\\project\\Conference Organization Management\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-05T17:39:16.446Z",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIAwwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:09:08.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "G:\\project\\Conference Organization Management\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "G:\\project\\Conference Organization Management\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAALAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-31T17:09:08.448Z",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-05T17:39:16.446Z",
               "EditorCaption": ""
             }
           ]

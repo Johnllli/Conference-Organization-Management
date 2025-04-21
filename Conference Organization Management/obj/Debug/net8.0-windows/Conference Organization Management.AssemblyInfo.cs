@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conference Organization Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+542058966d5ec54a11fd218a241f9ed56dbdbd99")]
 [assembly: System.Reflection.AssemblyProductAttribute("Conference Organization Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conference Organization Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

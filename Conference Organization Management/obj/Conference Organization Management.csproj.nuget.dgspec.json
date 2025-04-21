@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\project\\Conference Organization Management\\Conference Organization Management.csproj": {}
+    "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\Conference Organization Management.csproj": {}
   },
   "projects": {
-    "G:\\project\\Conference Organization Management\\Conference Organization Management.csproj": {
+    "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\Conference Organization Management.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\project\\Conference Organization Management\\Conference Organization Management.csproj",
+        "projectUniqueName": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\Conference Organization Management.csproj",
         "projectName": "Conference Organization Management",
-        "projectPath": "G:\\project\\Conference Organization Management\\Conference Organization Management.csproj",
+        "projectPath": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\Conference Organization Management.csproj",
         "packagesPath": "C:\\Users\\A2996\\.nuget\\packages\\",
-        "outputPath": "G:\\project\\Conference Organization Management\\obj\\",
+        "outputPath": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A2996\\AppData\\Roaming\\NuGet\\NuGet.Config",
