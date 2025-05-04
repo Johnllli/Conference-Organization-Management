@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Conference Organization Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-=======
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efe1942df383a8a52dacd6beb6411ab35cf22c5")]
->>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("Conference Organization Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Conference Organization Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

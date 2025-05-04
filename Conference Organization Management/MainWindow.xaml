@@ -15,10 +15,18 @@
                 <MenuItem Header="All" Click="mi_AsClick"/>
             </MenuItem>
             <MenuItem Header="Change/New">
+<<<<<<< Updated upstream
                 <MenuItem Header="Change" Click="mi_ChangeClick"/>
             </MenuItem>
             <MenuItem Header="Exit" Click="mi_ExitClick"/>
         </Menu>
+=======
+                <MenuItem Header="Conferences" Click="mi_ConferenceChangeNew_Click"/>
+                <MenuItem Header="Presentations" Click="mi_PresentationChangeNew_Click"/>
+            </MenuItem>
+        </Menu>
+
+>>>>>>> Stashed changes
         <DataGrid x:Name="dgFs" IsReadOnly="True"
                     DockPanel.Dock="Top"
                     Visibility="Collapsed" AutoGenerateColumns="False"
@@ -28,9 +36,77 @@
                 <DataGridTextColumn Header="Id" Binding="{Binding ID}"/>
                 <DataGridTextColumn Header="Presentation Title" Binding="{Binding PresentationTitle}"/>
                 <DataGridTextColumn Header="Presenter" Binding="{Binding Presenter.Name}"/>
+<<<<<<< Updated upstream
+=======
+                <DataGridTextColumn Header="Field of Expertise" Binding="{Binding Presenter.FieldOfExpertise}"/>
+>>>>>>> Stashed changes
                 <DataGridTextColumn Header="Where to go" Binding="{Binding Conferences.Location}"/>
                 <DataGridTextColumn Header="Start time" Binding="{Binding DateAndTime}"/>
             </DataGrid.Columns>
         </DataGrid>
+<<<<<<< Updated upstream
+=======
+
+        <Grid x:Name="grConferenceChangeNew" Visibility="Collapsed" Margin="0,10,0,0" DataContext="{Binding}">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0" Content="Conference Title" Margin="5"/>
+
+            <ComboBox Grid.Row="0" Grid.Column="1" Margin="5"
+              ItemsSource="{Binding}" DisplayMemberPath="Title"
+              IsSynchronizedWithCurrentItem="True" x:Name="cbConferenceTitle"
+              SelectionChanged="cbConference_SelectionChanged"/>
+
+            <Label Grid.Row="1" Grid.Column="0" Content="Title" Margin="5"/>
+            <TextBox Grid.Row="1" Grid.Column="1" x:Name="tbTitle" Margin="5"/>
+
+            <Label Grid.Row="2" Grid.Column="0" Content="Location" Margin="5"/>
+            <TextBox Grid.Row="2" Grid.Column="1" x:Name="tbLocation" Margin="5"/>
+
+            <Label Grid.Row="3" Grid.Column="0" Content="DateAndTime" Margin="5"/>
+            <TextBox Grid.Row="3" Grid.Column="1" x:Name="tbDateTime" Margin="5"/>
+
+            <StackPanel Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Content="Save" Click="btSaveConference_Click" Margin="5" Width="80" Height="30"/>
+                <Button Content="Save as New" Click="btSaveNewConference_Click" Margin="50,5,50,5" Width="120" Height="30"/>
+                <Button Content="Back" Click="btBackConference_Click" Margin="5" Width="80" Height="30"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid x:Name="grPresentationChangeNew" Visibility="Collapsed" Margin="10">
+            <StackPanel>
+                <TextBlock Text="Select Presentation:"/>
+                <ComboBox x:Name="cbPresentation" SelectionChanged="cbPresentation_SelectionChanged" DisplayMemberPath="PresentationTitle"/>
+
+                <TextBlock Text="Title:"/>
+                <TextBox x:Name="tbPresTitle"/>
+
+                <TextBlock Text="Date and Time (yyyy-MM-dd HH:mm):"/>
+                <TextBox x:Name="tbPresDateTime"/>
+
+                <TextBlock Text="Conference:"/>
+                <ComboBox x:Name="cbPresConference" DisplayMemberPath="Title"/>
+
+                <TextBlock Text="Presenter:"/>
+                <ComboBox x:Name="cbPresPresenter" DisplayMemberPath="Name"/>
+
+                <StackPanel Orientation="Horizontal">
+                    <Button Content="Save Changes" Click="btSavePresentation_Click" Margin="5"/>
+                    <Button Content="Add New" Click="btSaveNewPresentation_Click" Margin="5"/>
+                    <Button Content="Back" Click="btBackPresentation_Click" Margin="5"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+
+>>>>>>> Stashed changes
     </DockPanel>
 </Window>
