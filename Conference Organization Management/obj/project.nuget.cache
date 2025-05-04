@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d8EC+kcjbds=",
+  "dgSpecHash": "p6tcwmcWEDg=",
   "success": true,
-  "projectFilePath": "G:\\project\\Conference Organization Management\\Conference Organization Management.csproj",
+  "projectFilePath": "G:\\github\\Conference-Organization-Management\\Conference Organization Management\\Conference Organization Management.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A2996\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\A2996\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -5,28 +5,24 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Conference_Organization_Management"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Conference Presentation" Height="450" Width="800">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="File">
-                <MenuItem Header="First Show" Click="mi_FsClick"/>
-                <MenuItem Header="Second Show" Click="mi_SsClick"/>
-                <MenuItem Header="Third Show" Click="mi_TsClick"/>
+                <MenuItem Header="Exit" Click="mi_ExitClick"/>
+            </MenuItem>
+            <MenuItem Header="Query">
+                <MenuItem Header="First Conference" Click="mi_FsClick"/>
+                <MenuItem Header="Second Conference" Click="mi_SsClick"/>
+                <MenuItem Header="Third Conference" Click="mi_TsClick"/>
                 <MenuItem Header="All" Click="mi_AsClick"/>
             </MenuItem>
             <MenuItem Header="Change/New">
-<<<<<<< Updated upstream
-                <MenuItem Header="Change" Click="mi_ChangeClick"/>
-            </MenuItem>
-            <MenuItem Header="Exit" Click="mi_ExitClick"/>
-        </Menu>
-=======
                 <MenuItem Header="Conferences" Click="mi_ConferenceChangeNew_Click"/>
                 <MenuItem Header="Presentations" Click="mi_PresentationChangeNew_Click"/>
             </MenuItem>
         </Menu>
 
->>>>>>> Stashed changes
         <DataGrid x:Name="dgFs" IsReadOnly="True"
                     DockPanel.Dock="Top"
                     Visibility="Collapsed" AutoGenerateColumns="False"
@@ -36,16 +32,11 @@
                 <DataGridTextColumn Header="Id" Binding="{Binding ID}"/>
                 <DataGridTextColumn Header="Presentation Title" Binding="{Binding PresentationTitle}"/>
                 <DataGridTextColumn Header="Presenter" Binding="{Binding Presenter.Name}"/>
-<<<<<<< Updated upstream
-=======
                 <DataGridTextColumn Header="Field of Expertise" Binding="{Binding Presenter.FieldOfExpertise}"/>
->>>>>>> Stashed changes
                 <DataGridTextColumn Header="Where to go" Binding="{Binding Conferences.Location}"/>
                 <DataGridTextColumn Header="Start time" Binding="{Binding DateAndTime}"/>
             </DataGrid.Columns>
         </DataGrid>
-<<<<<<< Updated upstream
-=======
 
         <Grid x:Name="grConferenceChangeNew" Visibility="Collapsed" Margin="0,10,0,0" DataContext="{Binding}">
             <Grid.RowDefinitions>
@@ -107,6 +98,5 @@
             </StackPanel>
         </Grid>
 
->>>>>>> Stashed changes
     </DockPanel>
 </Window>

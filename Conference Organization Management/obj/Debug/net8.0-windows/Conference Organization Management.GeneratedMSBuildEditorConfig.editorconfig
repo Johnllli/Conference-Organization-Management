@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Conference_Organization_Management
-build_property.ProjectDir = G:\project\Conference Organization Management\
+build_property.ProjectDir = G:\github\Conference-Organization-Management\Conference Organization Management\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
